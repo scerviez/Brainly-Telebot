@@ -1,4 +1,3 @@
-# Credits @xditya
 import os
 import logging
 import pyrogram
