@@ -23,7 +23,7 @@ $ python -m Brainly
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nekozu/Brainly-Telebot.git)
 
 # Support 
-Jika repository error/ngebug, Lapor ke [Bot](https://t.me/nekozusupportbot)
+Jika repository error/ngebug, Lapor ke [owner](https://t.me/kanzakiy)
 
 # Credits And Thanks
 [pyrogram](https://github.com/pyrogram)
